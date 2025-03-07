@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**hepp3n/hepp3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Piotr and I love coding :) My language of choice is Rust.
+Currently using Pop_OS! with COSMIC Dekstop Environment.
 
-Here are some ideas to get you started:
+Projects I'm trying to keep alive are:
+    - [Quick Web Apps](https://github.com/cosmic-utils/web-apps)
+    - [cosmic-ext-applet-ollama](https://github.com/cosmic-utils/cosmic-ext-applet-ollama)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and also I would like to finish my kdeconnect implementation in Rust:
+    - [kdeconnect](https://github.com/hepp3n/kdeconnect)
+
+and then release
+    - [cosmic-ext-applet-connect](https://github.com/hepp3n/cosmic-ext-applet-connect)
+
+I don't have full time job, so I'm living with my passion. If you like what I'm doing, please consider supporting me!
+
+:)
